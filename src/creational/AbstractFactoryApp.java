@@ -18,7 +18,6 @@ import java.util.Map;
 //Step 1: Move all common products to a common interface
 interface Chair {
     int getLegsNumber();
-
     int getWidth();
 }
 
